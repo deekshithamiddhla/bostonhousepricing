@@ -12,7 +12,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # LOAD THE DATASET
-# ##https://www.youtube.com/watch?v=MJ1vWb1rGwM
+
 
 # In[2]:
 
